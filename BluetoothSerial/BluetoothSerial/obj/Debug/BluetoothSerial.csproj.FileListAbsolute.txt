@@ -1,0 +1,11 @@
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\bin\Debug\BluetoothSerial.exe.config
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\bin\Debug\BluetoothSerial.exe
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\bin\Debug\BluetoothSerial.pdb
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.csproj.AssemblyReference.cache
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.Form1.resources
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.Form2.resources
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.Properties.Resources.resources
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.csproj.GenerateResource.cache
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.csproj.CoreCompileInputs.cache
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.exe
+D:\wm\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\HungYn\WindowsForms\BluetoothSerial\BluetoothSerial\obj\Debug\BluetoothSerial.pdb
